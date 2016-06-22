@@ -3,6 +3,10 @@
 ls -la
 pwd
 sleep 3
-echo "vou  atualizar o sistema:"
+echo "carissimo carlos estou mundando teu codigo:"
 apt-get update
+ls
+pwd
+mkdir carlinhos
+cd carlinhos
 clear
